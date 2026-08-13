@@ -1,6 +1,7 @@
 # Gerador de Números
 
-Projeto desenvolvido em JavaScript com o objetivo de gerar números aleatórios para a Mega-Sena. O programa permite gerar combinações de 6 a 9 números, entre 1 e 60, sem números repetidos.
+Projeto desenvolvido em JavaScript com base nos conhecimentos adquiridos durante o curso Sujeito Programador, com o objetivo de praticar lógica de programação e conceitos fundamentais da linguagem.
+O projeto consiste em um gerador de números aleatórios, permitindo criar combinações de 6 a 9 números, entre 1 e 60, sem números repetidos.
 
 # Funcionalidades
 
