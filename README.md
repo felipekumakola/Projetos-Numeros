@@ -5,7 +5,7 @@ O projeto consiste em um gerador de números aleatórios, permitindo criar combi
 
 # Funcionalidades
 
-O projeto permite gerar combinações aleatórias para a Mega-Sena, possibilitando a escolha de 6 a 9 números. Os números são gerados aleatoriamente entre 1 e 60, garantindo que não haja números repetidos na mesma combinação. Caso seja informada uma quantidade fora desse intervalo, o programa retorna uma mensagem de aviso.
+O projeto permite gerar combinações aleatórias, possibilitando a escolha de 6 a 9 números. Os números são gerados aleatoriamente entre 1 e 60, garantindo que não haja números repetidos na mesma combinação. Caso seja informada uma quantidade fora desse intervalo, o programa retorna uma mensagem de aviso.
 
 # Funções Principais
 
