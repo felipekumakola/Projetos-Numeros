@@ -9,4 +9,4 @@ O projeto permite gerar combinações aleatórias para a Mega-Sena, possibilitan
 
 # Funções Principais
 
-A principal função do projeto é a gerarNumeroMega(qtdnumeros), responsável por controlar todo o processo de geração dos números. Ela recebe como parâmetro a quantidade desejada, cria um array para armazená-los e utiliza uma estrutura de repetição para gerar os valores aleatoriamente. O método includes() verifica se o número já foi escolhido, enquanto o push() adiciona novos números ao array. Ao atingir a quantidade solicitada, a função retorna a combinação gerada.
+A principal função do projeto é a *gerarNumeroMega(qtdnumeros)*, responsável por controlar todo o processo de geração dos números. Ela recebe como parâmetro a quantidade desejada, cria um array para armazená-los e utiliza uma estrutura de repetição para gerar os valores aleatoriamente. O método *includes( )* verifica se o número já foi escolhido, enquanto o *push( )* adiciona novos números ao array. Ao atingir a quantidade solicitada, a função retorna a combinação gerada.
